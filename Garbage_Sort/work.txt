@@ -1,2 +1,4 @@
 
-- RPi2
+- For start use RPi2
+	- 3_Wiper_Limit_SW
+- Later use RPi5 for ROS2
